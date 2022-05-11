@@ -1,0 +1,32 @@
+#curGameInfo:after {
+    font-size: 16px !important;
+    color: #6fff6e;
+    content: "Z3BU x AMZN";
+}
+
+#curGameInfo {
+    font-size: 0;
+}
+
+#tlInfHold {
+    display: none
+}
+
+#newsHolder,
+#faceItIconM,
+#aHolder, 
+.endAHolder, 
+#aMerger,
+.imageButton,.krSocial,
+#editorBtnM,
+#onetrust-consent-sdk,
+#policeButton,
+#timerIcon,
+#voiceDisplay,
+.purejscarousel-slide,
+::-webkit-scrollbar,
+.terms,
+#termsInfo,
+#mainLogo, #seasonLabel, #rankedSoonTm {
+    display: none !important;
+}
